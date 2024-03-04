@@ -8,6 +8,7 @@ const BookMark = ({ bookmark }) => {
 		</div>
 	);
 };
+
 BookMark.propTypes = {
 	bookmark: PropTypes.object,
 };
