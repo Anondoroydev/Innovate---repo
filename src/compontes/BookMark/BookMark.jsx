@@ -17,7 +17,6 @@ const BookMark = ({ bookmark }) => {
 
 
 
-
 BookMark.propTypes = {
 	bookmark: PropTypes.object,
 };
